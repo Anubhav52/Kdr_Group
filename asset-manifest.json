@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kdr-Group/static/css/main.963b8985.css",
+    "main.js": "/Kdr-Group/static/js/main.4a4b2388.js",
+    "static/media/sky.jpeg": "/Kdr-Group/static/media/sky.e018fc238e5f2f643850.jpeg",
+    "static/media/KDR-Group.png": "/Kdr-Group/static/media/KDR-Group.43ac65010bfad0a8bd8a.png",
+    "static/media/contact.jpeg": "/Kdr-Group/static/media/contact.c79299baaa3b9ea25a10.jpeg",
+    "index.html": "/Kdr-Group/index.html",
+    "main.963b8985.css.map": "/Kdr-Group/static/css/main.963b8985.css.map",
+    "main.4a4b2388.js.map": "/Kdr-Group/static/js/main.4a4b2388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963b8985.css",
+    "static/js/main.4a4b2388.js"
+  ]
+}
